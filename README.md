@@ -38,14 +38,18 @@ Ce Linktree permet de centraliser les liens importants à destination des recrut
   - Portfolio
   - CV
   - Lettre de motivation  
+
 ✅ **3 icônes de réseaux sociaux** (GitHub, LinkedIn, TikTok) autour de la photo  
 ✅ **Bouton de partage flottant** en haut à droite (animation rotation lente)  
 ✅ **Animations** :
+
   - Boutons qui s’agrandissent au hover avec changement de couleur et agrandissement.
   - Effet lumineux sur la photo au survol
   - Animation subtile de texte (balancement horizontal) sur les boutons de lien.
+
 ✅ **Design adaptatif sans défilement (no scrolling)**.
   - Style personnel avec police manuscrite et image de fond.
+
 ✅ **Footer fixe**
 
 ---
